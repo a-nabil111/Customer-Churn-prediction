@@ -28,8 +28,11 @@ Customer churn is one of the most critical business problems in subscription-bas
 
 ## Results
 
-Model : | Logistic Regression | AUC score : 0.832 |
-Model : | Random Forest | AUC score : 0.817 |
+| Model | AUC Score |
+|-------|-----------|
+| Logistic Regression | 0.832 |
+| Random Forest | 0.817 |
+
 
 **Final Model:** Logistic Regression with AUC of 0.832
 
